@@ -38,3 +38,14 @@ const secondDecade = {
 const decades = {
     "2": "twenty", "3": "thirty",
      "4": "forty", "5": "fifty",  "6": "sixty", "7": "seventy", "8": "eighty", "9": "ninety",}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
